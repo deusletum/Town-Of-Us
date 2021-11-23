@@ -1,12 +1,7 @@
- ## *Note. This repository is depricated in favour of Polus.gg, and is now read-only as it will not be recieving updates. Please visit our [steam page](https://store.steampowered.com/app/1653240/Polusgg/) and our [discord](https://discord.gg/polus) for all updates**
-
-
-[![Discord](./Images/Polus.png)](https://discord.gg/polus)
-
 ![LOGO](./Images/TOU-logo.png)
 ![Roles](./Images/Roles3.png)
 
-An Among Us mod that adds a bunch of roles, modifiers and game settings
+An Among Us mod that adds a bunch of roles, modifiers and game settings - i have taken this over
 
 
 
@@ -98,24 +93,24 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
   <ul> <li> Handshake refactor </li> </ul>
   <ul> <li> Fix for the Crashing Issues </li> </ul>
   <ul> <li> Fix for the Interaction Shifter/Giant </li> </ul>
-  <ul> <li> Fix for the Interaction Shifter/Engineer </li> </ul>    
+  <ul> <li> Fix for the Interaction Shifter/Engineer </li> </ul>
   <ul> <li> Fix for the Interaction Glitch/Jester </li> </ul>
   <ul> <li> Fix for the Interaction Morphling/Giant </li> </ul>
   <ul> <li> Fix for the Altruist Body Issues </li> </ul>
   <ul> <li> Fix for the Assassin DC Issues </li> </ul>
   <ul> <li> Fix for the Executioner Spawn Issues </li> </ul>
-  <ul> <li> Fix for the Phantom Vent Spawn Issues </li> </ul>    
+  <ul> <li> Fix for the Phantom Vent Spawn Issues </li> </ul>
   <ul> <li> Fix for the Phantom Walking Through Walls Issues </li> </ul>
   <ul> <li> Fix for the Phantom Doors Issues </li> </ul>
   <ul> <li> Fix for the Phantom Tasks Issues </li> </ul>
-  <ul> <li> Fix for the Swooper Invisible Issues </li> </ul>    
+  <ul> <li> Fix for the Swooper Invisible Issues </li> </ul>
   <ul> <li> Fix for the Time Lord Flashing Ability Issues </li> </ul>
   <ul> <li> Fix for the Time Lord Rewind Vent Issues </li> </ul>
-  <ul> <li> Fix for the Undertaker Dragging Issues </li> </ul>    
+  <ul> <li> Fix for the Undertaker Dragging Issues </li> </ul>
   <ul> <li> Fix for the Underdog Cooldown Issues </li> </ul>
   <ul> <li> Fix for the Giant Modifier Size Issues </li> </ul>
-  <ul> <li> Fix for the State Of Dead/DC Bodies In Meeting Issues </li> </ul>   
-  <ul> <li> Fix for the Voting Visual Issues </li> </ul>      
+  <ul> <li> Fix for the State Of Dead/DC Bodies In Meeting Issues </li> </ul>
+  <ul> <li> Fix for the Voting Visual Issues </li> </ul>
   <ul> <li> Minor enhancements and bug fixes </li> </ul>
  </details>
   <details>
@@ -180,7 +175,7 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
    <li> Investigator cannot spawn on airship due to too much lag with handling footprints </li>
   </ul>
  </details>
-  
+
  <details>
   <summary> v1.2.0 </summary>
   <ul>
@@ -253,7 +248,7 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 
 -----------------------
 # Installation
-## Requirements 
+## Requirements
 - Among Us
 - Steam or Epic Games
 
